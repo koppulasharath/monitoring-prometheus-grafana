@@ -36,7 +36,7 @@ Access:
 
 ## 📸 Screenshots
 
-(Add images inside /screenshots folder)
+(Added images inside /screenshots folder)
 
 * Grafana dashboard
 * Prometheus targets (UP)
